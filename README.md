@@ -212,6 +212,11 @@ In that case, the proxy can forward the domain directly to:
 ```text
 http://SERVER-IP:2785
 ```
+Get API Key
+
+```text
+docker exec openwa-api cat /app/data/.api-key
+```
 
 This avoids exposing OpenWA's port 2785 directly to the Internet and gives you a cleaner URL.
 
