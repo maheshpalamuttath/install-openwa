@@ -49,12 +49,6 @@ You can test it locally with:
 http://localhost:2785
 ```
 
-Or from another computer:
-
-```text
-http://SERVER-IP:2785
-```
-
 ## 3. Install Apache
 
 Install Apache:
